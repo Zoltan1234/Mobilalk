@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Bolt</string>
+    <string name="elado">Eladó</string>
+    <string name="vasarlo">Vásárló</string>
+    <string name="EditTextUsernam">Felhasználónév</string>
+    <string name="leiras">Leírás:</string>
+    <string name="cuccok">Cuccok</string>
+    <string name="info">Több infó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="Email">E-mail cím</string>
+    <string name="pw">Jelszó</string>
+    <string name="place_order">Rendelés leadása</string>
+    <string name="zero_forint">0 Ft</string>
+    <string name="pruducts">Termékek:</string>
+    <string name="shipping_fee">Szállítási költség: </string>
+    <string name="message">Kiegészítés</string>
+    <string name="signup">Regisztráció</string>
+    <string name="loginasquest">Bejelentkezés vendégként</string>
+    <string name="address">Lakcím</string>
+    <string name="reg">Regisztráció</string>
+    <string name="total">Összesen:</string>
+    <string name="payment_method">Fizetési mód: </string>
+    <string name="add_to_cart">Kosárba</string>
+    <string name="fill_details">Regisztrációs adatok másolása</string>
+    <string name="full_name">Teljes név</string>
+    <string name="emptycart">Üres a kosár!</string>
+    <string name="remove_from_cart">Eltávolítás a kosárból</string>
+    <string name="ordering_details">Adatok megadása</string>
+    <string name="negative">-</string>
+    <string name="positive">+</string>
+    <string name="asd">Tovább a fizetéshez</string>
+    <string name="details">Adatok</string>
+    <string name="getdetails">Adat lekérés</string>
+    <string name="deleteaccount">Fiók törlése</string>
+    <string-array name="nem">
+        <item>Férfi</item>
+        <item>Nő</item>
+    </string-array>
+    <array name="shopping_item_image">
+        <item>@drawable/billentyuzet</item>
+        <item>@drawable/monitor</item>
+        <item>@drawable/vidikartya</item>
+        <item>@drawable/eger</item>
+        <item>@drawable/proci</item>
+    </array>
+    <string-array name="shopping_item_names">
+        <item>Billentyűzet</item>
+        <item>Monitor</item>
+        <item>Videókártya</item>
+        <item>Egér</item>
+        <item>Processzor</item>
+    </string-array>
+
+    <array name="shopping_item_rated">
+        <item>4</item>
+        <item>5</item>
+        <item>3.5</item>
+        <item>4</item>
+        <item>4.5</item>
+    </array>
+    <string-array name="payment_methods">
+        <item>Utánvétel ( + 500 Ft)</item>
+        <item>Banki utalás (Ingyenes)</item>
+        <item>Erzsébet kártya ( + 1000 Ft)</item>
+    </string-array>
+    <string-array name="shopping_item_desc">
+        <item>Ez egy Billentyűzet</item>
+        <item>Ez egy Monitor</item>
+        <item>ez egy Videókártya</item>
+        <item>Ez egy Egér</item>
+        <item>Ez egy Processzor</item>
+    </string-array>
+    <array name="shoping_item_price">
+        <item>15000 Ft</item>
+        <item>98000 Ft</item>
+        <item>950000Ft</item>
+        <item>22500Ft</item>
+        <item>218000Ft</item>
+    </array>
+    <string-array name="shopping_item_id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
